@@ -29,7 +29,7 @@ android {
         targetCompatibility JavaVersion.VERSION_17
     }
 
-    //enable view binding (optional, you may use findViewById)
+    //enable view binding (optional, may use findViewById)
     buildFeatures {
         viewBinding true
     }
