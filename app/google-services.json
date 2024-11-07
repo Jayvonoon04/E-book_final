@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "507336713722",
+    "firebase_url": "https://ebook-5c7f3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ebook-5c7f3",
+    "storage_bucket": "ebook-5c7f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507336713722:android:d0ee649952291511deb043",
+        "android_client_info": {
+          "package_name": "com.example.bookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSkIcC1vOT3h6-AKiafyLlw7tWandSGdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
